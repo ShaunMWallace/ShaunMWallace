@@ -14,3 +14,12 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          # Languages Section
+          plugin_languages: yes
+          plugin_languages_details: percentage # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%
+          plugin_languages_indepth: no # Get indepth stats (see documentation before enabling)
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_load: 500
+          commits_authoring: shaunw21@gmail.com, shaun.wallace@weather.com
+

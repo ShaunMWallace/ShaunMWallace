@@ -17,9 +17,9 @@ My name is Shaun Wallace, and I currently live and work in Atlanta, Georgia 🍑
 
 ### Where To Find Me?
 
-![![LinkedIn Icon](https://s.w-x.co/linkedin_personal?v=at&w=100&h=100)](https://www.linkedin.com/in/shaunmwallace/)
-![![Facebook Icon](https://s.w-x.co/facebook_personal?v=at&w=100&h=100)](https://www.facebook.com/shaun.wallace21)
-![![Twitter Icon](https://s.w-x.co/twitter_personal?v=at&w=100&h=100)](https://twitter.com/ShaunMWallace)
+![![LinkedIn Icon](https://s.w-x.co/linkedin_personal.svg?v=at&w=100&h=100)](https://www.linkedin.com/in/shaunmwallace/)
+![![Facebook Icon](https://s.w-x.co/facebook_personal.svg?v=at&w=100&h=100)](https://www.facebook.com/shaun.wallace21)
+![![Twitter Icon](https://s.w-x.co/twitter_personal.svg?v=at&w=100&h=100)](https://twitter.com/ShaunMWallace)
 
 ---
 
@@ -31,4 +31,4 @@ My name is Shaun Wallace, and I currently live and work in Atlanta, Georgia 🍑
 
 #### What Am I Listening To 🎧?
 
-[![Spotify](https://spotify-now-playing-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/shaunw21@gmail.com)
+[![Spotify](https://spotify-now-playing-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/1245740323)

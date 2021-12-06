@@ -17,9 +17,9 @@ My name is Shaun Wallace, and I currently live and work in Atlanta, Georgia 🍑
 
 ### Where To Find Me?
 
-![![LinkedIn Icon](https://s.w-x.co/linkedin_personal.png)](https://www.linkedin.com/in/shaunmwallace/)
-![![Facebook Icon](https://s.w-x.co/facebook_personal.png)](https://www.facebook.com/shaun.wallace21)
-![![Twitter Icon](https://s.w-x.co/twitter_personal.png)](https://twitter.com/ShaunMWallace)
+[![LinkedIn Icon](https://s.w-x.co/linkedin_personal.png)](https://www.linkedin.com/in/shaunmwallace/)
+[![Facebook Icon](https://s.w-x.co/facebook_personal.png)](https://www.facebook.com/shaun.wallace21)
+[![Twitter Icon](https://s.w-x.co/twitter_personal.png)](https://twitter.com/ShaunMWallace)
 
 ---
 

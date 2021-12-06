@@ -27,6 +27,8 @@ My name is Shaun Wallace, and I currently live and work in Atlanta, Georgia 🍑
 
 ![shauns gitub stats](./github-metrics.svg)
 
+---
+
 ### Just For Fun!
 
 #### What Am I Listening To 🎧?

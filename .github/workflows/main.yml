@@ -15,11 +15,11 @@ jobs:
     steps:
       # See action.yml for all options
       - uses: ShaunMWallace/metrics@master
-        user: ShaunMWallace
-        filename: github-metrics.svg
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          user: ShaunMWallace
+          filename: github-metrics.svg
           # Languages Section
           plugin_languages: yes
           plugin_languages_details: percentage # Additionally display total bytes size and percentage
